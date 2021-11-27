@@ -1,0 +1,2 @@
+transitions~=0.8.10
+telebot~=0.0.4
